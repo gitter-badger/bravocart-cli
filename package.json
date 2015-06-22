@@ -1,0 +1,45 @@
+{
+  "name": "bravocart-cli",
+  "version": "0.0.9",
+  "preferGlobal": true,
+  "description": "A tool for creating and developing Bravocart mobile shops.",
+  "homepage": "http://bravocart.io",
+  "bin": {
+    "bravocart": "bin/bravocart"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravocart/bravocart-cli.git"
+  },
+  "keywords": [
+    "bravocart",
+    "bravocart-cli",
+    "mobile",
+    "app",
+    "hybrid",
+    "cordova",
+    "phonegap",
+    "ionic",
+    "ionic",
+    "framework",
+    "m-commerce",
+    "mobile",
+    "commerce"
+  ],
+  "contributors": [
+    {
+      "name": "Georg Schlenkhoff",
+      "email": "georg@ocaenhouse21.com",
+      "web": "https://twitter.com/gschlenkhoff"
+    }
+  ],
+  "author": "Georg Schlenkhoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bravocart/bravocart-cli/issues"
+  },
+  "homepage": "https://github.com/bravocart/bravocart-cli#readme"
+}
