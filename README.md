@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/bravocart/bravocart-cli.svg?branch=master)](https://travis-ci.org/bravocart/bravocart-cli)
 # Bravocart-Cli
 
+[![Join the chat at https://gitter.im/bravocart/bravocart-cli](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bravocart/bravocart-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Bravocart command line utilit makes it easy to start, build, and run [Bravocart](http://bravocart.io) apps.
 
 Use the ```bravocart --help``` command for more detailed task information.
